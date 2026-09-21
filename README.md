@@ -115,5 +115,5 @@
 
 ## Структура проекта
 
-- `Final_project_1.1.ipynb` — функция расчёта retention и когортная матрица.
-- `Final_project_1.2.ipynb` — расчёт метрик A/B-теста, χ²-тест, Bootstrap.
+- `Mobile-game-analyticst_1.ipynb` — функция расчёта retention и когортная матрица.
+- `Mobile-game-analytics_2.ipynb` — расчёт метрик A/B-теста, χ²-тест, Bootstrap.
